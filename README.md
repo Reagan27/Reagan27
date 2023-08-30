@@ -1,8 +1,7 @@
 <!-- Header -->
 <h1 align="center">
   
-  <img src="https://raw.githubusercontent.com/Jimna254/Jimna254/47ac80fdaf776f9dd19341abfb74985b4f48b83f/OneDrive/Desktop/Jimna254/header.svg" alt="Reagan" width="100" height="100" /><br />
-  Hello, I'm Reagan 👋
+  <a href="header.svg">
 </h1>
 
 </h1>
