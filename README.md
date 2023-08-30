@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">
   
-  <a href="header.svg">
+  <img src="header.svg">
 </h1>
 
 </h1>
