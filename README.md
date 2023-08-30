@@ -1,14 +1,33 @@
-- 👋 Hi, I’m @Reagan27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- Header -->
+# <img src="![Alt text](1688818970371.jpg)" alt="Reagan" width="50" height="50" /> Hello, I'm Reagan 👋
 
-<!---
-Reagan27/Reagan27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **full-stack developer** with years of freelancing experience, now turned into a full-time career. My journey through the realms of software development has enabled me to craft seamless user experiences and powerful backends.
 
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+<!-- Technology Stack -->
+## 🚀 Technologies & Skills
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** C#, ASP.NET Core, Node.js
+- **Databases:** SQL, MongoDB
+- **Architecture:** Microservices, RESTful APIs
+- **Security:** Authentication, Authorization, OWASP
+- **DevOps:** CI/CD, Docker, Kubernetes
+- **Blockchain:** Exploring the decentralized world
+- **PWAs:** Bringing web and mobile closer
+
+<!-- Expertise -->
+## 💡 Expertise
+
+I specialize in building **robust backends** that handle the complexity, allowing you to focus on delivering a top-notch frontend experience. I enjoy crafting solutions that are *elegant, efficient, and secure*.
+
+<!-- Blogging -->
+## 📝 Blogging
+
+Dive into my [blog posts](https://your-blog-url.com) where I unravel the intricacies behind the screen. Topics range from *system designs*, *databases*, *security practices*, *server optimization*, to emerging technologies like *Blockchain* and *Progressive Web Apps (PWAs)*.
+
+<!-- Connect with Me -->
+## 🌐 Connect with Me
+
+Let's collaborate and create something amazing together. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/reagan-lutta-115919211/) or follow my journey on [Twitter](https://twitter.com/LuttaMd).
+
+Stay curious, keep coding! 🚀
