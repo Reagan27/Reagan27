@@ -12,7 +12,7 @@
 
 <!-- Animated Section -->
 <h2 align="center">
-  🚀 Let's <span style="color:#ff6600;">build</span> the <span style="color:#ff3366;">future</span> together! 🌟
+  🚀 Let's <span style="color:#BF00FF;">build</span> the <span style="color:#BF00FF;">future</span> together! 🌟
 </h2>
 
 <p align="center">
