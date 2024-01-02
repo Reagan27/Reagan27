@@ -42,7 +42,7 @@
 ## 📝 Blogging
 
 <p align="center">
-  Explore my <a href="https://your-blog-url.com">blog</a> where I dive deep into <em>system designs</em>, <em>databases</em>, <em>security practices</em>, and emerging tech.
+  Explore my <a href="https://reagan27.github.io/Reagan-DevPortfolio/">Lutta's Techfolio</a> where I dive deep into <em>system designs</em>, <em>databases</em>, <em>security practices</em>, and emerging tech.
 </p>
 
 <!-- Connect with Me -->
