@@ -22,14 +22,18 @@
 <!-- Technology Stack -->
 ## 🛠️ Technologies & Skills
 
+
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** C#, ASP.NET Core, Node.js
+- **Backend:** C#, ASP.NET Core, Node.js, Python (with frameworks like Django or Flask)
 - **Databases:** SQL, MongoDB
 - **Architecture:** Microservices, RESTful APIs
 - **Security:** Authentication, Authorization, OWASP
-- **DevOps:** CI/CD, Docker, Kubernetes
+- **DevOps:** CI/CD, Docker, Kubernetes, Azure DevOps
+- **Cloud Services:** Azure (including services like Azure App Service, Azure Functions, Azure SQL Database, Azure Cosmos DB)
 - **Blockchain:** Exploring the decentralized world
 - **PWAs:** Bringing web and mobile closer
+
+
 
 <!-- Expertise -->
 ## 💡 Expertise
