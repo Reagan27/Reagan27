@@ -34,44 +34,40 @@
           box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
         }
 
-        /* Wrapping the typing text in a centered div */
+        /* Wrapping the moving text in a centered div */
         .wrapper {
           height: 100%;
+          width: 100%;
           display: flex;
           align-items: center;
           justify-content: center;
+          overflow: hidden; /* Hides text when it's outside the container */
         }
 
-        /* Typing animation styles */
-        .typing-demo {
+        /* Left-to-right sliding text effect */
+        .moving-text {
           font-size: 2em;
           font-weight: bold;
           color: #00ff7f;
           white-space: nowrap;
-          overflow: hidden;
-          border-right: 3px solid #00ff7f;
-          animation: typing 4s steps(40), blink .75s step-end infinite alternate;
+          animation: moveText 8s linear infinite; /* Movement animation */
           font-family: 'Courier New', Courier, monospace;
         }
 
-        /* Typing effect */
-        @keyframes typing {
-          from {
-            width: 0;
+        /* Sliding effect keyframes */
+        @keyframes moveText {
+          0% {
+            transform: translateX(-100%); /* Start off-screen on the left */
           }
-        }
-
-        /* Blinking cursor effect */
-        @keyframes blink {
-          50% {
-            border-color: transparent;
+          100% {
+            transform: translateX(100%); /* End off-screen on the right */
           }
         }
       </style>
 
       <div class="container">
         <div class="wrapper">
-          <div class="typing-demo">
+          <div class="moving-text">
             Hello there 👋. I'm <b>Reagan Lutta</b>.
           </div>
         </div>
