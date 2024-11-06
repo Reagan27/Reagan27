@@ -1,86 +1,82 @@
 <svg fill="none" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="800px" height="200">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>			
-			/*	@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
-			*/
-				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 200px;
-					background-color: black !important;
-					//background: linear-gradient(-45deg, #09009B, #3EDBF0, #610094);
-					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
-					border-radius: 10px;
-					color: #00ff00;
-					text-align: center;
-				}
-        
-        .wrapper {
+  <foreignObject width="800px" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        /* Keyframes for smooth gradient background animation */
+        @keyframes gradientBackground {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
+        }
+
+        /* Main container styles */
+        .container {
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          margin: 0;
+          width: 100%;
           height: 200px;
-          /*This part is important for centering*/
+          background: linear-gradient(-45deg, #ff6b81, #4e54c8, #8f94fb);
+          background-size: 600% 600%;
+          animation: gradientBackground 10s ease infinite;
+          border-radius: 15px;
+          color: white;
+          text-align: center;
+          box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Wrapping the typing text in a centered div */
+        .wrapper {
+          height: 100%;
           display: flex;
           align-items: center;
           justify-content: center;
         }
 
+        /* Typing animation styles */
         .typing-demo {
-          width: 33ch;
-          animation: typing 4s steps(37), blink .3s step-end infinite alternate;
+          font-size: 2em;
+          font-weight: bold;
+          color: #00ff7f;
           white-space: nowrap;
           overflow: hidden;
-          border-right: 3px solid;
-          font-family: monospace;
-          font-size: 2em;
+          border-right: 3px solid #00ff7f;
+          animation: typing 4s steps(40), blink .75s step-end infinite alternate;
+          font-family: 'Courier New', Courier, monospace;
         }
 
+        /* Typing effect */
         @keyframes typing {
           from {
-            width: 0
+            width: 0;
           }
         }
-            
+
+        /* Blinking cursor effect */
         @keyframes blink {
           50% {
-            border-color: transparent
+            border-color: transparent;
           }
         }
-			</style>
-			<div class="container">
+      </style>
+
+      <div class="container">
         <div class="wrapper">
-            <div class="typing-demo">
-		    
-              Hello there 👋. I'm <b>Reagan Lutta</b>.
-		    
-		    
-            </div>          
+          <div class="typing-demo">
+            Hello there 👋. I'm <b>Reagan Lutta</b>.
+          </div>
         </div>
-			</div>
-		</div>
-	</foreignObject>
+      </div>
+
+    </div>
+  </foreignObject>
 </svg>
