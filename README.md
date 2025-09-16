@@ -1,6 +1,7 @@
-<marquee behavior="alternate" scrollamount="6" direction="right" width="1000">
-  <h1 style="color:#6C63FF; font-size:40px;">💫 Reagan Lutta 💫</h1>
-</marquee>
+<h1 align="center">
+  💫 <span style="background: linear-gradient(90deg,#6C63FF,#00C9A7,#FF6B6B); -webkit-background-clip: text; color: transparent;">Reagan Lutta</span> 💫
+</h1>
+
 
 
 
