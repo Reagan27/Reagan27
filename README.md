@@ -1,8 +1,6 @@
-<h1 align="center">
-  💫 <span style="background: linear-gradient(90deg,#6C63FF,#00C9A7,#FF6B6B); -webkit-background-clip: text; color: transparent;">Reagan Lutta</span> 💫
-</h1>
-
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&lines=💫+Reagan+Lutta+💫" alt="" />
+</div>
 
 
 
