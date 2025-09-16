@@ -1,13 +1,18 @@
 
 # 💫 Reagan Lutta | Full-Stack Architect & Innovation Catalyst
 
+
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;Innovation+Catalyst;Cloud+Architect;Tech+Enthusiast)
-  
-  <img src="https://komarev.com/ghpvc/?username=reagan27&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-  
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1200&color=6C63FF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Reagan+Lutta;Full-Stack+Architect+%26+Innovation+Catalyst)
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Cloud+Architect;Innovation+Catalyst;AI+%26+Blockchain+Explorer;Tech+Enthusiast)
+
+<img src="https://komarev.com/ghpvc/?username=reagan27&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+
 </div>
+
 
 ---
 
