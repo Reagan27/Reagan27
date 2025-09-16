@@ -1,23 +1,22 @@
+
+
+
 <div align="center">
 
 <!-- Animated Name -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&duration=2500&pause=1200&color=6C63FF&center=true&vCenter=true&width=1000&lines=💫+Reagan+Lutta+💫" alt="Typing Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&duration=2500&pause=1200&color=6C63FF&center=true&vCenter=true&width=1000&lines=💫+Reagan+Lutta+💫" alt="Animated Name" />
 
 <!-- Tagline typing + erasing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00C9A7&center=true&vCenter=true&width=1000&lines=Full-Stack+Architect+%26+Innovation+Catalyst;Building+the+Future+One+Commit+at+a+Time;Turning+Ideas+Into+Impact;Exploring+AI+%26+Cloud+Horizons" alt="Typing tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00C9A7&center=true&vCenter=true&width=1000&lines=Full-Stack+Architect+%26+Innovation+Catalyst;Building+the+Future+One+Commit+at+a+Time;Turning+Ideas+Into+Impact;Exploring+AI+%26+Cloud+Horizons" alt="Animated Tagline" />
 
 <!-- Roles typing + erasing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Cloud+Architect;Tech+Enthusiast;AI+%26+Blockchain+Explorer" alt="Typing roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Cloud+Architect;Tech+Enthusiast;AI+%26+Blockchain+Explorer" alt="Animated Roles" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=reagan27&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
-
-
-
-
 
 ---
 
