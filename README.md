@@ -2,17 +2,25 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1200&color=6C63FF&center=true&vCenter=true&width=1000&lines=👋+Hi%2C+I'm+Reagan+Lutta)
+
+<marquee behavior="scroll" direction="left" scrollamount="6" width="1000">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1200&color=6C63FF&vCenter=true&width=1000&lines=👋+Hi%2C+I'm+Reagan+Lutta" alt="Typing SVG" />
+</marquee>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1200&color=00C9A7&center=true&vCenter=true&width=1000&lines=Full-Stack+Architect;Innovation+Catalyst;Cloud+%26+AI+Explorer)
+<marquee behavior="scroll" direction="right" scrollamount="5" width="1000">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1200&color=00C9A7&vCenter=true&width=1000&lines=Full-Stack+Architect;Innovation+Catalyst;Cloud+%26+AI+Explorer" alt="Typing SVG" />
+</marquee>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Cloud+Architect;Tech+Enthusiast;AI+%26+Blockchain+Explorer)
+<marquee behavior="scroll" direction="left" scrollamount="4" width="900">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF6B6B&vCenter=true&width=900&lines=Full-Stack+Developer;Cloud+Architect;Tech+Enthusiast;AI+%26+Blockchain+Explorer" alt="Typing SVG" />
+</marquee>
 
 <img src="https://komarev.com/ghpvc/?username=reagan27&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
+
 
 ---
 
