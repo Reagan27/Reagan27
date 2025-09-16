@@ -1,29 +1,24 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&lines=💫+Reagan+Lutta+💫" alt="" />
-</div>
-
-
+<h1 align="center">
+  💫 <span style="background: linear-gradient(90deg,#6C63FF,#00C9A7,#FF6B6B); -webkit-background-clip: text; color: transparent;">Reagan Lutta</span> 💫
+</h1>
 
 <div align="center">
 
-<!-- Moving intro -->
-<marquee behavior="scroll" direction="left" scrollamount="6" width="1000">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1200&color=6C63FF&vCenter=true&width=1000&lines=👋+Hi%2C+I'm+Reagan+Lutta" alt="" />
-</marquee>
+<!-- Name typing + erasing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=2500&pause=1200&color=6C63FF&center=true&vCenter=true&repeat=true&width=1000&lines=👋+Hi%2C+I'm+Reagan+Lutta;💫+Full-Stack+Architect+%26+Innovation+Catalyst+💫" alt="Typing intro" />
 
-<!-- Moving tagline -->
-<marquee behavior="scroll" direction="right" scrollamount="5" width="1000">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1200&color=00C9A7&vCenter=true&width=1000&lines=Full-Stack+Architect;Innovation+Catalyst;Cloud+%26+AI+Explorer" alt="" />
-</marquee>
+<!-- Tagline typing + erasing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00C9A7&center=true&vCenter=true&width=1000&lines=Building+the+Future+One+Commit+at+a+Time;Turning+Ideas+Into+Impact;Exploring+AI+%26+Cloud+Horizons" alt="Typing tagline" />
 
-<!-- Moving roles -->
-<marquee behavior="scroll" direction="left" scrollamount="4" width="900">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF6B6B&vCenter=true&width=900&lines=Full-Stack+Developer;Cloud+Architect;Tech+Enthusiast;AI+%26+Blockchain+Explorer" alt="" />
-</marquee>
+<!-- Roles typing + erasing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Cloud+Architect;Tech+Enthusiast;AI+%26+Blockchain+Explorer" alt="Typing roles" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=reagan27&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
+
 
 
 
